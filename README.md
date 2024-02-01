@@ -1,5 +1,5 @@
 # EURO UTIL
-<img src=" EuroUtilsFaceplate.jpg"/></a>
+<img src="EuroUtilsFaceplate.jpg"/></a>
 
 ## Eurorack CV utility module
 
